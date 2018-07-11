@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical Quiz</string>
+
+    <string-array name="spinnerItems">
+        <item>E65L</item>
+        <item>W67L</item>
+        <item>W67K</item>
+        <item>E24C</item>
+    </string-array>
+
+</resources>
